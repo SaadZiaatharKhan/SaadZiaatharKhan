@@ -1,9 +1,3 @@
-<br>
-
-<img src="https://visitor-badge.laobi.icu/badge?page_id=SaadZiaatharKhan.visitor-badge&left_text=My%20Page%20Visitors" align="center">
-
-<br>
-
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
 
 <br>
@@ -135,3 +129,7 @@ I have hands-on experience in both frontend and backend development, and I enjoy
 	<a href="https://mail.google.com/mail/u/0/#inbox?compose=CllgCJZdjzkTQTrDQmjVgcqxRdpfThQrBqVMXFhCSHVPLHhcGRJKdHWnkhxhfndMvBrQQrfJZDB" target="_blank"><img width="50" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Gmail-Dark.svg" alt="Gmail" title="Gmail"/></a>
 	<a href="https://discord.com/users/warrior078940" target="_blank"><img width="50" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Discord.svg" alt="Discord" title="Discord"/></a>
 </div>
+
+<br>
+
+<img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
