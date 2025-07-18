@@ -9,12 +9,6 @@
 
 👋 Hey there! I am Saad Khan, a Computer Science student with a passion to building. I have hands-on experience in both frontend and backend development, and I enjoy integrating AI into my applications to enhance user experience and functionality.
 
-<style>
-  @media only screen and (max-width: 1024px) {
-    .hide-on-mobile-tablet { display: none !important; }
-  }
-</style>
-
 <img
   class="hide-on-mobile-tablet"
   src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/0b335028-1d3d-4ee5-b5b3-a373d499be7e" width="250" height="250" align="right" alt="Cool GitHub GIF"
